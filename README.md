@@ -1,4 +1,6 @@
-### Hi there 👋
+![Sobczyk-m's GitHub stats](https://github-readme-stats.vercel.app/api?username=sobczyk-m&show_icons=true&theme=ayu-mirage&hide=stars,prs,issues,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobczyk-m&layout=compact&theme=ayu-mirage&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sobczyk-m/sobczyk-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
