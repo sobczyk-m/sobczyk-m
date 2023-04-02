@@ -1,4 +1,5 @@
 ### Projects:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sobczyk-m&repo=Weather-App&theme=ayu-mirage)](https://github.com/sobczyk-m/Weather-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sobczyk-m&repo=calculator&theme=ayu-mirage)](https://github.com/sobczyk-m/Calculator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sobczyk-m&repo=sobczyk-m.github.io&theme=ayu-mirage)](https://github.com/sobczyk-m/sobczyk-m.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sobczyk-m&repo=Drum-Machine&theme=ayu-mirage)](https://github.com/sobczyk-m/Drum-Machine)
