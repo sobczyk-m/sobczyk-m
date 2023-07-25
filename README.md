@@ -12,8 +12,7 @@
 
 ### Stats:
 
-[![Top Langs](https://github-readme-stats-ruddy-six.vercel.app/api/top-langs/?username=sobczyk-m&layout=compact&theme=ayu-mirage&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats-ruddy-six.vercel.app/api/top-langs/?username=sobczyk-m&layout=compact&theme=ayu-mirage&langs_count=10)](https://github.com/sobczyk-m/github-readme-stats)
 <!--
 ![Sobczyk-m's GitHub stats](https://github-readme-stats-ruddy-six.vercel.app/api?username=sobczyk-m&show_icons=true&theme=ayu-mirage&hide=stars,prs,issues,contribs&count_private=true)
 --!>
