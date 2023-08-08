@@ -8,7 +8,7 @@
 
 ### Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,react,sass,css,html,git&perline=10&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,react,git,sass,css,html&perline=10&theme=dark)](https://skillicons.dev)
 
 ### Stats:
 
