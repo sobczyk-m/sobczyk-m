@@ -12,7 +12,7 @@
  
 ### Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,kotlin,js,git,androidstudio,react,sass,css,html&perline=10&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,js,git,androidstudio,spring,react,mysql,postman,sass,css,html&perline=10&theme=dark)](https://skillicons.dev)
 
 ### Stats:
 
